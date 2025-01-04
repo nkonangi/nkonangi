@@ -1,7 +1,7 @@
 
 <!-- <img align="center" alt="" src="./web3.jpeg"> -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<h2 align="center"> Hi therer, I'm <a href = "https://www.linkedin.com/in/narasimharaokonangi/">Narasimha Rao Konangi</a>!!! Nice to meet you here <img src="https://media.tenor.com/images/b617c36f9db276d3146e974b8ff64f4c/tenor.gif" 
+<h2 align="center"> Hi therer, I'm <a href = "https://www.linkedin.com/in/narasimharaokonangi/">Narasimha Konangi</a>!!! Nice to meet you here <img src="https://media.tenor.com/images/b617c36f9db276d3146e974b8ff64f4c/tenor.gif" 
          alt="👋🏻"
          height="35"
 	 width="35" /></h2>
