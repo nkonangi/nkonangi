@@ -13,8 +13,8 @@
 ### About Myself:
 
 - I am a **Sr.Manager, Software Engineering** @ **Capital One**.
-- I am a **Senior Engineering Leader** expertise in building **Enterprise services, Data Platforms and Cloud Computing**.
-- **Fun fact:** I am a dad with two boys and outdoor enthusiast.
+- I am a **Senior Engineering Leader** expertise in building **Enterprise Data Services, Platforms, Analytics and AI/ML/ GenAI**.
+- **Fun fact:** I am an outdoor enthusiast. Loves driving, travel and explore new places.
 <hr>
 
 ### My Achievements and Recognizations:
